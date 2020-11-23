@@ -10,7 +10,7 @@ Infobip Joker 2020 Quest 1
 `SecretDecrypter.decrypt`
 * В проекте уже есть репозиторий транзакций, добавьте метод возвращающий дубликаты
 `TransactionsRepository.findDuplicates`
-* Список транзакций является ответом квеста, внесите его в форму _http:// ..._
+* Список транзакций является ответом квеста, внесите его в эту [форму](https://forms.office.com/Pages/ResponsePage.aspx?id=hgrv93kxzEeEl_O13Q0p-mdhyP2HxxdAu1hjtHc3TOBUNDlTNEJUVE40TzhZQ1lHVjFHNFZHS1VIRS4u).
 
 Installation
 ------------
